@@ -2,9 +2,20 @@
 
 This simple project shows a UI that allows the user to press a login button to login, and a logout button to logout.
 
-This project uses the Reflex Dependency Injection Framework to inject dependencies into classes that need them.
+## Dependencies
 
-This project also uses Mail Man - A pooled event dispatcher for Unity that allows game objects to be decoupled from each other, while generating minimal garbage allocations. 
+### Reflex
+A lightweight dependency injection framework for Unity, so we can inject dependencies only into the classes that need them.
+
+### Mail Man
+A pooled event dispatcher for Unity that allows game objects to be decoupled from each other, while generating minimal garbage allocations. 
+
+### Rest Client
+A Simple HTTP and REST client for Unity based on Promises, also support Callbacks!
+
+### Further improvements
+
+Add Sentry Unity SDK to capture any exceptions or error logs.
 
 ## Key classes/folders
 
