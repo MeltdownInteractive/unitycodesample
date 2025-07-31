@@ -1,6 +1,7 @@
-# unitycodesample
+# Greg Quinn - Unity Code Sample
 
 This simple project shows a UI that allows the user to press a login button to login, and a logout button to logout.
+The project is built around clean architecture principles, with logic, services, dependencies and UI management decoupled from each other.
 
 ## Dependencies
 
