@@ -22,10 +22,12 @@ Add Sentry Unity SDK to capture any exceptions or error logs.
 
 ### Configuration
 ProjectInstaller.cs - The entry point for the project scope and DI framework initialisation.
+
 All project related configuration can be set here, and RealAuthenticationService or MockAuthenticationService can be easily swapped out
 
 ### EventMessaging
 xMail.cs - Mail Man generated classes containing event dispatch data
+
 MailSender.cs - A static class used to dispatch Mail Man events
 
 ### Models 
@@ -35,6 +37,7 @@ A collection of models, enums, and interfaces
 Services used to handle business logic, these services are typically injected into gameObjects that require them.
 
 MockAuthenticationService - A mock class for testing the authentication service
+
 RealAuthenticationService - A real class that makes an API request to authenticate the user
 
 ### Repositories
