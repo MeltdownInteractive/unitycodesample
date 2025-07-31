@@ -1,13 +1,12 @@
 ﻿using Models.Interfaces;
 using UnityEngine;
 
-namespace Models.Repositories
+namespace Repositories
 {
     public class PlayerPrefsRepository : IPlayerPrefsRepository
     {
         public string UserAccessTokenKey => "accessToken";
-
-        // Initialise default values
+        
         public void Initialize()
         {
             if(!KeyExists(UserAccessTokenKey)) WriteString(UserAccessTokenKey, "");
