@@ -12,7 +12,7 @@ A lightweight dependency injection framework for Unity, so we can inject depende
 A pooled event dispatcher for Unity that allows game objects to be decoupled from each other, while generating minimal garbage allocations. 
 
 ### Rest Client
-A Simple HTTP and REST client for Unity based on Promises, also support Callbacks!
+A Simple HTTP and REST client for Unity based on promises.
 
 ### Further improvements
 
