@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9ddf7809b347c144ca4c72d0a68f5b8f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 254234
+  packageName: Mailman - Pooled Event System
+  packageVersion: 1.0.3
+  assetPath: Assets/BigBenchGames/Mailman/Editor/Elements/InputFieldDialog.cs
+  uploadId: 705609

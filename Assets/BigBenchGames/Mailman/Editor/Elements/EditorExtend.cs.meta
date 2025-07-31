@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 39b90fb20aface34e84a62a646e1d63c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 254234
+  packageName: Mailman - Pooled Event System
+  packageVersion: 1.0.3
+  assetPath: Assets/BigBenchGames/Mailman/Editor/Elements/EditorExtend.cs
+  uploadId: 705609

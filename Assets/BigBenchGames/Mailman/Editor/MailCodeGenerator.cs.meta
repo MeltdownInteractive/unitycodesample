@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ad6a0da304c006446a20dd3e60b29616
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 254234
+  packageName: Mailman - Pooled Event System
+  packageVersion: 1.0.3
+  assetPath: Assets/BigBenchGames/Mailman/Editor/MailCodeGenerator.cs
+  uploadId: 705609

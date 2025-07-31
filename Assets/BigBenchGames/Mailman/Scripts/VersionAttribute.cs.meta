@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c76d8c6fdc94d594cac4a22cd1f689f2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 254234
+  packageName: Mailman - Pooled Event System
+  packageVersion: 1.0.3
+  assetPath: Assets/BigBenchGames/Mailman/Scripts/VersionAttribute.cs
+  uploadId: 705609

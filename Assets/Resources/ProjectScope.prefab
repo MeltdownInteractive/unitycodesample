@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7075605984205706508
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6634329610841578720}
+  - component: {fileID: 8007134361812298589}
+  - component: {fileID: 1881195396775473344}
+  m_Layer: 0
+  m_Name: ProjectScope
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6634329610841578720
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7075605984205706508}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8007134361812298589
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7075605984205706508}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 238ee66aa2bafad47bf60938e98aebca, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1881195396775473344
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7075605984205706508}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ca058265879d854b9f55119d8a1a357, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _apiEnvironment: 0
+  _apiBaseUrlDevelopment: http://localhost:7136/api
+  _apiBaseUrlTestStaging: https://af-dream-forge-test-stage.azurewebsites.net/api
+  _apiBaseUrlTest: https://af-dream-forge-test.azurewebsites.net/api
+  _apiBaseUrlStaging: https://af-dream-forge-stage.azurewebsites.net/api
+  _apiBaseUrlProduction: https://api.dreamforge.io/api
