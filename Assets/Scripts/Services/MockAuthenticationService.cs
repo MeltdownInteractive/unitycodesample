@@ -1,5 +1,4 @@
 ﻿using System;
-using EventMessaging;
 using Models.Interfaces;
 
 namespace Services
@@ -8,13 +7,11 @@ namespace Services
     {
         public void Authenticate(Action<bool, string> callback)
         {
-            MailSender.SendLoginSuccess();
             callback(true, "MOCK_ACCESS_TOKEN");
         }
 
         public void Logout(Action callback)
         {
-            MailSender.SendLogoutSuccess();
             callback();
         }
     }
